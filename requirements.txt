@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+fake-useragent==1.5.1
+aiofiles==23.2.1
+loguru==0.7.2
